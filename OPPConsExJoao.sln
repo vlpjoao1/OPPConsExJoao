@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPConsExJoao", "OPPConsExJoao\OPPConsExJoao.csproj", "{C34E618B-0754-47E7-99AA-5B04D50D8B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageSound", "ManageSound\ManageSound.csproj", "{84297195-E174-41B6-BE0B-E07163E34752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34E618B-0754-47E7-99AA-5B04D50D8B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34E618B-0754-47E7-99AA-5B04D50D8B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34E618B-0754-47E7-99AA-5B04D50D8B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34E618B-0754-47E7-99AA-5B04D50D8B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84297195-E174-41B6-BE0B-E07163E34752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84297195-E174-41B6-BE0B-E07163E34752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84297195-E174-41B6-BE0B-E07163E34752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84297195-E174-41B6-BE0B-E07163E34752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD61E3B-04F7-4AD8-888C-2C57C79E5736}
+	EndGlobalSection
+EndGlobal
